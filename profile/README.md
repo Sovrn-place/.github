@@ -2,7 +2,7 @@
 
 Sovrn builds the operating system for the world's economic zones.
 
-We provide the digital infrastructure that special economic zones, free ports, and smart cities need to onboard residents, verify identities, process payments, and manage operations — all from a single platform.
+We provide the digital infrastructure that special economic zones, free ports, and smart cities need to onboard residents, verify identities, process payments, and manage operations, all from a single platform.
 
 ### What we're building
 
@@ -21,7 +21,8 @@ Democracy hasn't been fully realized. The next phase is competitive governance �
 - [sovrn.place](https://sovrn.place) — Platform
 - [ai.sovrn.place](https://ai.sovrn.place) — AI Advisor
 - [sovrn-protocol](https://github.com/Sovrn-place/sovrn-protocol) — Open credential schemas and verification protocol
-- [Newsletter](https://illuminateds-newsletter.beehiiv.com/subscribe) — Competitive governance, smart cities, sovereign technology
+- [Newsletter](https://sovrn-newsletter.beehiiv.com/subscribe) — Competitive governance, smart cities, sovereign technology
+- [Socials](https://linktr.ee/joinsovrn)
 
 ### Deployment pipeline
 
