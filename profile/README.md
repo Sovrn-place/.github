@@ -18,11 +18,11 @@ Democracy hasn't been fully realized. The next phase is competitive governance �
 
 ### Links
 
-- [sovrn.place](https://sovrn.place) — Platform
-- [ai.sovrn.place](https://ai.sovrn.place) — AI Advisor
-- [sovrn-protocol](https://github.com/Sovrn-place/sovrn-protocol) — Open credential schemas and verification protocol
-- [Newsletter](https://sovrn-newsletter.beehiiv.com/subscribe) — Competitive governance, smart cities, sovereign technology
-- [Socials](https://linktr.ee/joinsovrn)
+- [sovrn.place](https://sovrn.place) - Platform
+- [ai.sovrn.place](https://ai.sovrn.place) - AI Immigration and Residency Advisor
+- [sovrn-protocol](https://github.com/Sovrn-place/sovrn-protocol) - Open credential schemas and verification protocol
+- [Newsletter](https://sovrn-newsletter.beehiiv.com/subscribe) - Competitive governance, smart cities, sovereign technology
+- [Socials](https://linktr.ee/joinsovrn) - LinkedIn, X, Newsletter and more
 
 ### Deployment pipeline
 
