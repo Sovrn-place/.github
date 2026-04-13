@@ -1,4 +1,4 @@
-# Sovrn — Sovereign Technology Infrastructure
+# Sovrn - Sovereign Technology Infrastructure
 
 Sovrn builds the operating system for the world's economic zones.
 
@@ -6,11 +6,11 @@ We provide the digital infrastructure that special economic zones, free ports, a
 
 ### What we're building
 
-**Platform** — Digital residency onboarding, portable identity credentials (W3C VC 2.0), inline KYC, stablecoin payments with fiat rails, and zone administration dashboards. Currently piloting with zones in Nigeria, Sri Lanka, and Tanzania.
+**Platform** - Digital residency onboarding, portable identity credentials (W3C VC 2.0), inline KYC, stablecoin payments with fiat rails, and zone administration dashboards. Currently piloting with zones in Nigeria, Sri Lanka, and Tanzania.
 
-**Protocol** — Open credential schemas and verification adapters that any zone or identity provider can implement. Credentials issued by one zone are verifiable by any other zone in the network.
+**Protocol** - Open credential schemas and verification adapters that any zone or identity provider can implement. Credentials issued by one zone are verifiable by any other zone in the network.
 
-**AI Advisor** — An AI-powered relocation advisor covering 14+ jurisdictions, helping individuals and companies find the right zone for their needs.
+**AI Advisor** - An AI-powered relocation advisor covering 14+ jurisdictions, helping individuals and companies find the right zone for their needs.
 
 ### The thesis
 
