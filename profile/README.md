@@ -12,6 +12,26 @@ We provide the digital infrastructure that special economic zones, free ports, a
 
 **AI Advisor** - An AI-powered relocation advisor covering 14+ jurisdictions, helping individuals and companies find the right zone for their needs.
 
+### Product
+
+**Platform** ([sovrndemo](https://sovrn-demo.vercel.app))
+- Universal ID (.si namespace) - portable across all zones
+- Inline KYC - verify once, reuse everywhere, never redirected to a separate flow
+- Residency applications with AI-assisted review and escrow payments
+- Zone admin dashboard - manage applications, compliance, payments, revenue
+- 12 programs across 7 zones (Estonia, Dubai, Singapore, Sri Lanka, Tanzania, Nigeria, more)
+- Cross-zone credential portability - a verification done in one zone is recognized by others
+
+**AI Advisor** ([live](https://ai.sovrn.place))
+- AI-powered relocation advisor covering 14+ jurisdictions
+- Personalized reports comparing tax, residency, banking, and lifestyle factors
+- Three tiers: free chat, $15 one-time report, $29/month Pro
+
+**Open Protocol** ([sovrn-protocol](https://github.com/Sovrn-place/sovrn-protocol))
+- W3C VC 2.0 credential schemas for cross-zone identity
+- KycAdapter interface - any KYC provider (open or licensed) can implement it
+- First open standard for portable identity across independent economic zones
+
 ### The thesis
 
 Democracy hasn't been fully realized. The next phase is competitive governance — cities and zones competing for residents, capital, and talent the way companies compete for customers. Sovrn is the infrastructure layer that makes this competition possible.
