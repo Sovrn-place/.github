@@ -34,7 +34,7 @@ We provide the digital infrastructure that special economic zones, free ports, a
 
 ### The thesis
 
-Democracy hasn't been fully realized. The next phase is competitive governance — cities and zones competing for residents, capital, and talent the way companies compete for customers. Sovrn is the infrastructure layer that makes this competition possible.
+Democracy hasn't been fully realized. The next phase is a reverse marketplace for human capital - cities and zones competing for residents, capital, and talent the way companies compete for customers. Sovrn is the infrastructure layer that makes this competition possible.
 
 ### Links
 
@@ -48,6 +48,6 @@ Democracy hasn't been fully realized. The next phase is competitive governance �
 
 **Signed:** Sri Lankan SEZ (>5M citizens) · East African Economic Zone · Zo World (global co-living network)
 
-**Advanced pipeline:** UK Freeports · Dubai CommerCity · Itana Digital Free Zone (Nigeria) · Hyderabad AI City
+**Advanced pipeline:** UK Freeports · Dubai CommerCity · Digital Free Zone (Nigeria) · Hyderabad AI City
 
 **In discussions:** 12+ cities across 3 continents
