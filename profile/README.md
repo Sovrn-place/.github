@@ -23,10 +23,10 @@ Democracy hasn't been fully realized. The next phase is competitive governance �
 - [sovrn-protocol](https://github.com/Sovrn-place/sovrn-protocol) — Open credential schemas and verification protocol
 - [Newsletter](https://illuminateds-newsletter.beehiiv.com/subscribe) — Competitive governance, smart cities, sovereign technology
 
-### Signed pilots
+### Deployment pipeline
 
-Colombo Port City SEZ (Sri Lanka) · Zanzibar SEZ (Tanzania) · Itana Digital Free Zone (Nigeria)
+**Signed:** Sri Lankan SEZ (>5M citizens) · East African Economic Zone · Zo World (global co-living network)
 
-### Backed by
+**Advanced pipeline:** UK Freeports · Dubai CommerCity · Itana Digital Free Zone (Nigeria) · Hyderabad AI City
 
-ODF23 · Gitcoin Kernel · Camp Everest (Hustle Fund) · Stellar Community Fund
+**In discussions:** 12+ cities across 3 continents
