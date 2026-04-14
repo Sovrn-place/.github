@@ -2,15 +2,15 @@
 
 Sovrn builds the operating system that turns economic zones into digital economies - identity, residency, payments, and credentials on one platform.
 
-7,000+ special economic zones. $4.76 trillion smart city economy by 2030. 640 million citizens seeking better systems. Zero shared digital infrastructure.
-
 ---
 
 ## The problem
 
 Every zone builds its own siloed onboarding, its own KYC, its own payment rails. A resident verified in Colombo starts from scratch in Lagos. A company incorporated in one free zone cannot present those credentials in another. Zones spend months on infrastructure instead of attracting residents and capital.
 
-### What we're building
+7,000+ special economic zones. $4.76 trillion smart city economy by 2030. 640 million citizens seeking better systems. Zero shared digital infrastructure.
+
+## What we're building
 
 **Platform** ([demo](https://sovrn-demo.vercel.app))
 - Universal ID (.si namespace) - claim once, use across every zone
@@ -30,11 +30,11 @@ Every zone builds its own siloed onboarding, its own KYC, its own payment rails.
 - Provider-agnostic KycAdapter interface
 - The identity and credential layer connecting independent economic zones
 
-### The thesis
+## The thesis
 
 The next phase of governance is competitive - cities and zones competing for residents, capital, and talent the way companies compete for customers. Sovrn is the infrastructure that makes this competition possible.
 
-### Deployment pipeline
+## Deployment pipeline
 
 **Signed:** Sri Lankan SEZ (>5M citizens) · East African Economic Zone · Zo World (global co-living network)
 
@@ -42,7 +42,7 @@ The next phase of governance is competitive - cities and zones competing for res
 
 **In discussions:** 12+ cities across 3 continents
 
-### Links
+## Links
 
 [sovrn.place](https://sovrn.place) · [AI Advisor](https://ai.sovrn.place) · [Newsletter](https://sovrn-newsletter.beehiiv.com/) · [Early Access](https://tally.so/r/3j64jY) · [Linktree](https://linktr.ee/joinsovrn)
 
