@@ -6,7 +6,7 @@ We provide the digital infrastructure that special economic zones, free ports, a
 
 ### What we're building
 
-[**Platform**](https://sovrn.place/) - Digital residency onboarding, portable identity credentials (W3C VC 2.0), inline KYC, stablecoin payments with fiat rails, and zone administration dashboards. Currently piloting with zones in Nigeria, Sri Lanka, and Tanzania.
+[**Platform**](https://sovrn.place/) - Digital residency onboarding, portable identity credentials (W3C VC 2.0), inline KYC, stablecoin payments with fiat rails, and zone administration dashboards. Currently piloting with zones across 3 continents.
 
 **Protocol** - Open credential schemas and verification adapters that any zone or identity provider can implement. Credentials issued by one zone are verifiable by any other zone in the network.
 
