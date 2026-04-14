@@ -17,11 +17,11 @@ Every zone builds its own siloed onboarding, its own KYC, its own payment infras
 - Inline KYC - verify once, recognized everywhere
 - Residency applications with AI-assisted review and escrow payments
 - Zone admin dashboard - applications, compliance, payments, revenue
-- 12 programs across 7 zones live in alpha
+- 12 programs across 7 zones deploying in alpha
 - Cross-zone credential portability - no re-verification
 
 **AI Advisor** ([live](https://ai.sovrn.place))
-- AI-powered relocation advisor covering 14+ jurisdictions
+- AI-powered immigration and residency advisor covering 14+ jurisdictions
 - Personalized comparison of tax, residency, banking, and lifestyle
 - Free chat · $15 report · $29/month Pro
 
@@ -38,7 +38,7 @@ The next phase of governance is competitive - cities and zones competing for res
 
 **Signed:** Sri Lankan SEZ (>5M citizens) · East African Economic Zone · Zo World (global co-living network)
 
-**Advanced pipeline:** UK Freeports · Dubai CommerCity · Itana Digital Free Zone (Nigeria) · Hyderabad AI City
+**Advanced pipeline:** UK Freeports · Dubai CommerCity · Digital Free Zone (Nigeria) · Hyderabad AI City
 
 **In discussions:** 12+ cities across 3 continents
 
