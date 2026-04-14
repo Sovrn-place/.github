@@ -6,7 +6,7 @@ Sovrn builds the operating system that turns economic zones into digital economi
 
 ## The problem
 
-Every zone builds its own siloed onboarding, its own KYC, its own payment rails. A resident verified in Colombo starts from scratch in Lagos. A company incorporated in one free zone cannot present those credentials in another. Zones spend months on infrastructure instead of attracting residents and capital.
+Every zone builds its own siloed onboarding, its own KYC, its own payment infrastructure. A resident verified in Estonia starts from scratch in London. A company incorporated in one free zone cannot present those credentials in another. Zones spend months on infrastructure instead of attracting residents and capital.
 
 7,000+ special economic zones. $4.76 trillion smart city economy by 2030. 640 million citizens seeking better systems. Zero shared digital infrastructure.
 
