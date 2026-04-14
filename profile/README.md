@@ -32,7 +32,7 @@ Every zone builds its own siloed onboarding, its own KYC, its own payment infras
 
 ## The thesis
 
-The next phase of governance is competitive - cities and zones competing for residents, capital, and talent the way companies compete for customers. Sovrn is the infrastructure that makes this competition possible.
+The next phase is a reverse marketplace for human capital — where cities, zones, and nations compete for residents, capital, and talent the way companies compete for customers. Sovrn is the infrastructure that makes this competition possible
 
 ## Deployment pipeline
 
