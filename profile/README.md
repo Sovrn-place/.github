@@ -1,6 +1,6 @@
 # Sovrn - Sovereign Technology Infrastructure
 
-Sovrn builds the operating system that turns economic zones into digital economies - identity, residency, payments, and credentials on one platform.
+**Sovrn** builds the Operating System that turns economic zones into digital economies - identity, residency, payments, and credentials on one platform.
 
 
 
