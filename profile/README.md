@@ -1,53 +1,47 @@
 # Sovrn - Sovereign Technology Infrastructure
 
-Sovrn builds the operating system for the world's economic zones.
+7,000+ special economic zones. $4.76 trillion smart city economy by 2030. 640 million citizens seeking better systems. Zero shared digital infrastructure.
 
-We provide the digital infrastructure that special economic zones, free ports, and smart cities need to onboard residents, verify identities, process payments, and manage operations, all from a single platform.
+Sovrn builds the operating system that turns economic zones into digital economies - identity, residency, payments, and credentials on one platform.
+
+---
+
+### The problem
+
+Every zone builds its own siloed onboarding, its own KYC, its own payment rails. A resident verified in Colombo starts from scratch in Lagos. A company incorporated in one free zone cannot present those credentials in another. Zones spend months on infrastructure instead of attracting residents and capital.
 
 ### What we're building
 
-[**Platform**](https://sovrn.place/) - Digital residency onboarding, portable identity credentials (W3C VC 2.0), inline KYC, stablecoin payments with fiat rails, and zone administration dashboards. Currently piloting with zones across 3 continents.
-
-**Protocol** - Open credential schemas and verification adapters that any zone or identity provider can implement. Credentials issued by one zone are verifiable by any other zone in the network.
-
-**AI Advisor** - An AI-powered relocation advisor covering 14+ jurisdictions, helping individuals and companies find the right zone for their needs.
-
-### Product
-
-**Platform** ([sovrndemo](https://sovrn-demo.vercel.app))
-- Universal ID (.si namespace) - portable across all zones
-- Inline KYC - verify once, reuse everywhere, never redirected to a separate flow
+**Platform** ([alpha](https://sovrn-alpha.vercel.app))
+- Universal ID (.si namespace) - claim once, use across every zone
+- Inline KYC - verify once, recognized everywhere
 - Residency applications with AI-assisted review and escrow payments
-- Zone admin dashboard - manage applications, compliance, payments, revenue
-- 12 programs across 7 zones (Estonia, Dubai, Singapore, Sri Lanka, Tanzania, Nigeria, more)
-- Cross-zone credential portability - a verification done in one zone is recognized by others
+- Zone admin dashboard - applications, compliance, payments, revenue
+- 12 programs across 7 zones live in alpha
+- Cross-zone credential portability - no re-verification
 
 **AI Advisor** ([live](https://ai.sovrn.place))
 - AI-powered relocation advisor covering 14+ jurisdictions
-- Personalized reports comparing tax, residency, banking, and lifestyle factors
-- Three tiers: free chat, $15 one-time report, $29/month Pro
+- Personalized comparison of tax, residency, banking, and lifestyle
+- Free chat · $15 report · $29/month Pro
 
 **Open Protocol** ([sovrn-protocol](https://github.com/Sovrn-place/sovrn-protocol))
 - W3C VC 2.0 credential schemas for cross-zone identity
-- KycAdapter interface - any KYC provider (open or licensed) can implement it
-- First open standard for portable identity across independent economic zones
+- Provider-agnostic KycAdapter interface
+- The identity and credential layer connecting independent economic zones
 
 ### The thesis
 
-Democracy hasn't been fully realized. The next phase is a reverse marketplace for human capital - cities and zones competing for residents, capital, and talent the way companies compete for customers. Sovrn is the infrastructure layer that makes this competition possible.
-
-### Links
-
-- [sovrn.place](https://sovrn.place) - Platform
-- [ai.sovrn.place](https://ai.sovrn.place) - AI Immigration and Residency Advisor
-- [sovrn-protocol](https://github.com/Sovrn-place/sovrn-protocol) - Open credential schemas and verification protocol
-- [Newsletter](https://sovrn-newsletter.beehiiv.com/subscribe) - Competitive governance, smart cities, sovereign technology
-- [Socials](https://linktr.ee/joinsovrn) - LinkedIn, X, Newsletter and more
+The next phase of governance is competitive - cities and zones competing for residents, capital, and talent the way companies compete for customers. Sovrn is the infrastructure that makes this competition possible.
 
 ### Deployment pipeline
 
 **Signed:** Sri Lankan SEZ (>5M citizens) · East African Economic Zone · Zo World (global co-living network)
 
-**Advanced pipeline:** UK Freeports · Dubai CommerCity · Digital Free Zone (Nigeria) · Hyderabad AI City
+**Advanced pipeline:** UK Freeports · Dubai CommerCity · Itana Digital Free Zone (Nigeria) · Hyderabad AI City
 
 **In discussions:** 12+ cities across 3 continents
+
+### Links
+
+[sovrn.place](https://sovrn.place) · [AI Advisor](https://ai.sovrn.place) · [Newsletter](https://sovrn-newsletter.beehiiv.com/) · [Early Access](https://tally.so/r/3j64jY) · [Linktree](https://linktr.ee/joinsovrn)
