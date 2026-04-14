@@ -12,7 +12,7 @@ Every zone builds its own siloed onboarding, its own KYC, its own payment rails.
 
 ### What we're building
 
-**Platform** ([alpha](https://sovrn-alpha.vercel.app))
+**Platform** ([demo](https://sovrn-demo.vercel.app))
 - Universal ID (.si namespace) - claim once, use across every zone
 - Inline KYC - verify once, recognized everywhere
 - Residency applications with AI-assisted review and escrow payments
@@ -45,3 +45,5 @@ The next phase of governance is competitive - cities and zones competing for res
 ### Links
 
 [sovrn.place](https://sovrn.place) · [AI Advisor](https://ai.sovrn.place) · [Newsletter](https://sovrn-newsletter.beehiiv.com/) · [Early Access](https://tally.so/r/3j64jY) · [Linktree](https://linktr.ee/joinsovrn)
+
+**Contact:** contactus@sovrnplace.com
